@@ -1,4 +1,4 @@
-# Strukdat-OOP-2026
+# 4 Pillars of OOP
 Repository Strukdat Muhamad Nasrulhaq/5027251117
 
 Di programming berorientasi objek (OOP), terdapat empat pilar utama yang menjadi dasar dalam pengembangan perangkat lunak:
